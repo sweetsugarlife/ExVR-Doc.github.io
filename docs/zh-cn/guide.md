@@ -25,11 +25,12 @@
   
 - 点击<font color=green> __Start Tracking__ </font> 开启追踪。
 - 开启追踪后点击 __Show Frame__ 可以查看摄像头画面。
+- 点击查看 <font color=red>[__快捷键列表__](/zh-cn/hotkey.md#按键设置)</font>
 ## 步骤四：使用面捕软件（先安装好驱动）
 - 打开解压的 __VRCFaceTracking_5.2.3.0_x64.zip__ 内的 __VRCFaceTracking.exe__ 。
 - 如果显示 __No Modules Installed__ 请安装驱动。
 - 注：（如果不需要面捕可以不运行该exe，不影响手追与头追功能）
-## 步骤四：使用SteamVR运行VRChat
+## 步骤五：使用SteamVR运行VRChat
 - 打开Steam，打开VRChat，点击运行，选择 __在Steam虚拟显示模式下启动VRChat__ 。
 - 如果没有选择页面并且运行VRChat依然为PC模式。
   - 点击VRChat库页面的齿轮图标，选择属性，点击已选启动选项，选择在开始游戏时询问或Steam虚拟现实启动
