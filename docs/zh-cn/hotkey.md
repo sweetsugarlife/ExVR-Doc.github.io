@@ -34,8 +34,8 @@
 | `]`             | 右手扳机键                       |
 | `mouse left`  | 左手扳机键                       |
 | `mouse right`  | 右手扳机键                       |
-| `scroll_up` (滚轮)    | 移动摇杆向上                     |
-| `scroll_down` (滚轮)  | 移动摇杆向下                     |
+| `scroll_up` (滚轮向上)    | 移动摇杆向上                     |
+| `scroll_down` (滚轮向下)  | 移动摇杆向下                     |
 <!-- | `mouse left`   | 左手握持键                       | -->
 <!-- | `mouse right`  | 右手握持键                       | -->
 ## VRChat自带键位 {docsify-ignore}
